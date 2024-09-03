@@ -1,0 +1,50 @@
+Sub-Station,RTU*,MW,Mvar,Voltage
+Badarpur,1,0,0,225
+Bamnauli,1,342,3,410
+Bawana,1,938,-16,408
+CCGT-Bawana,1,267,-42,412
+DEV NAGAR,0,65,3,229
+DIAL,1,57,-1,229
+DSIDC,1,191,-4,224
+Dwarka,1,588,-3,223
+Gazipur,1,125,5,219
+Geeta Colony,1,132,19,218
+GopalPur,1,160,5,220
+HCM Lane,0,38,10,227
+Harsh Vihar,0,399,9,409
+IP Power,1,108,1,214
+Kanjhawla,1,180,9,223
+Kashmiri Gate,1,38,-3,223
+Lodhi Rd,1,96,-1,230
+Maharanibagh,1,676,-240,229
+Mandaula,1,1078,83,408
+Masjid Moth,1,115,16,225
+Mehrauli,0,164,-31,221
+Mundka,1,391,-13,412
+Najafgarh,1,207,37,227
+Naraina,1,128,17,227
+Narela,1,139,-9,222
+Okhla,1,194,-8,227
+Papankalan-1,1,224,0,227
+Papankalan-2,1,192,-1,230
+Papankalan-3,1,191,-7,222
+Park Street,1,197,7,229
+Patparganj,1,163,9,220
+Peera Garhi,0,168,2,224
+Pragati,1,22,-6,231
+Preet Vihar,1,128,14,224
+Rajghat,1,70,0,0
+Ridge Valley,1,82,12,0
+Rkpuram,1,149,-12,230
+Rohini-II,1,104,56,228
+Rohini1,1,169,10,210
+SGT Nagar,1,133,3,226
+Sarita Vihar,1,145,17,235
+Shalimar Bagh,0,259,8,223
+Subzi Mandi,1,75,-5,222
+TIMARPUR,1,0,0,226
+Trauma centre,0,74,20,227
+Tuglakabad,1,816,-138,226
+Vasant Kunj,1,103,-9,229
+Wazirabad,1,272,-1,218
+Wazirpur,0,116,-11,227
